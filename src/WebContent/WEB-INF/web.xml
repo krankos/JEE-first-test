@@ -1,0 +1,12 @@
+<servlet>
+    <servlet-name>Test</servlet-name>
+    <servlet-class>com.testing.servlets.TestServlet</servlet-class>
+
+    <init-param>
+        <param-name>auteur</param-name>
+        <param-value>Khalil</param-value>
+    </init-param>
+
+    <load-on-startup>1</load-on-startup>
+
+</servlet>
